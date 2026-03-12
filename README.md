@@ -21,7 +21,6 @@ Visual components and Python
 
 ## Experiment:
 <img width="918" height="543" alt="image" src="https://github.com/user-attachments/assets/ff604c2a-589e-4964-a0a4-8357c49fa207" />
-<img width="918" height="543" alt="image" src="https://github.com/user-attachments/assets/9067b92f-9a61-43b5-87bf-067d87eae651" />
 
 
 ## Program
